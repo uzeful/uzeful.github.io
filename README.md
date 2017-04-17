@@ -1,6 +1,6 @@
 ## About Me
-> Yu Zhang  
-> Ph.D. Candidate  
+> Yu Zhang  
+> Ph.D. Candidate   
 > Department of Electronic Engineering  
 > Tsinghua University  
 > Email: uzeful[at]163[dot]com  
