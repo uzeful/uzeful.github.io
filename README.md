@@ -3,18 +3,22 @@
 
 
 
-
 ### About Me
 Yu Zhang
+
 Ph.D. Candidate
+
 Department of Electronic Engineering
+
 Tsinghua University
+
 Email: uzeful[at]163[dot]com 
 
 
 ### Educations
-2015.08~Present: Ph.D. candidate in Dept. of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang. 
-2012.09~2015.03: M.E. in Dept. of Astronautics, Beihang University, supervised by Professor Xiangzhi Bai.
+1. 2015.08~Present: Ph.D. candidate in Dept. of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang. 
+
+2. 2012.09~2015.03: M.E. in Dept. of Astronautics, Beihang University, supervised by Professor Xiangzhi Bai.
 
 
 ### Research Interests
