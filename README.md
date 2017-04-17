@@ -1,5 +1,3 @@
-# Welcome to Zhang Yu's Homepage  
-
 ## About Me
 > Yu Zhang  
 > Ph.D. Candidate  
@@ -16,7 +14,6 @@ Image fusion, Medical imaging
 
 ## Review Experience
 Information Fusion, Applied Optics, Infrared Physics & Technology  
-
 
 ## Publications
 1. Y. Zhang, X. Bai and T. Wang, Multi-focus image fusion via boundary finding and multi-scale morphological focus-measure, Information Fusion, Volume 35, pp. 81-101, 2017. [[code & dataset](http://7xkx4z.dl1.z0.glb.clouddn.com/Boundary%20Finding%20Based%20Image%20Fusion.zip)]  
