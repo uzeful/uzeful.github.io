@@ -6,9 +6,9 @@
 > Email: uzeful[at]163[dot]com  
 
 ## Educations
-> 1. 2015.08~Present: Ph.D. candidate in Department of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang.  
-> 2. 2012.09~2015.03: M.E. in school of Astronautics, Beihang University, supervised by Professor Xiangzhi Bai.  
-> 3. 2008.09~2012.07: B.E. in Navigation College, Dalian Maritime University.  
+> 1. 2015.08~Present: PhD candidate in Department of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang.  
+> 2. 2012.09~2015.03: ME in school of Astronautics, Beihang University, supervised by Professor Xiangzhi Bai.  
+> 3. 2008.09~2012.07: BE in Navigation College, Dalian Maritime University.  
 
 ## Research Interests
 > Image fusion, Medical imaging  
