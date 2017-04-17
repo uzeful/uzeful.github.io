@@ -42,7 +42,7 @@ Information Fusion, Applied Optics, Infrared Physics & Technology
 
 
 ### Sources
-1. Y. Zhang, L. Zhang, X. Bai and L. Zhang. Infrared and Visual Image Fusion through Infrared Feature Extraction and Visual Information Preservation. Submitted. [dataset](http://7xsubt.com1.z0.glb.clouddn.com/Dataset_2016.zip)[supplement](http://7xswyh.com1.z0.glb.clouddn.com/supplementary.pdf)
+1. Y. Zhang, L. Zhang, X. Bai and L. Zhang. Infrared and Visual Image Fusion through Infrared Feature Extraction and Visual Information Preservation. Submitted. [[dataset](http://7xsubt.com1.z0.glb.clouddn.com/Dataset_2016.zip)][[supplement](http://7xswyh.com1.z0.glb.clouddn.com/supplementary.pdf)]
 
 
 
