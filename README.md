@@ -11,7 +11,7 @@
 > 3. 2008.09~2012.07: BE in Navigation College, Dalian Maritime University.  
 
 ## Research Interests
-> Image fusion, Medical imaging  
+> Machine Learning, Image fusion, Medical imaging  
 
 ## Review Experience
 > Information Fusion, Applied Optics, Infrared Physics & Technology  
