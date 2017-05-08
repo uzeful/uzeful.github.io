@@ -17,9 +17,9 @@
 > Information Fusion, Applied Optics, Infrared Physics & Technology  
 
 ## Publications
-> 1. Y. Zhang, L. Zhang, X. Bai and L. Zhang. Infrared and Visual Image Fusion through Infrared Feature Extraction and Visual Information Preservation. Infrared Physics & Technology, 2017. [[dataset](http://7xsubt.com1.z0.glb.clouddn.com/Dataset_2016.zip)][[supplement](http://7xswyh.com1.z0.glb.clouddn.com/supplementary.pdf)]
-> 2. Y. Zhang, X. Bai and T. Wang, Multi-focus image fusion via boundary finding and multi-scale morphological focus-measure, Information Fusion, Volume 35, pp. 81-101, 2017. [[code & dataset](http://7xkx4z.dl1.z0.glb.clouddn.com/Boundary%20Finding%20Based%20Image%20Fusion.zip)]  
+> 1. Y. Zhang, L. Zhang, X. Bai and L. Zhang. Infrared and Visual Image Fusion through Infrared Feature Extraction and Visual Information Preservation. Infrared Physics & Technology, 2017. [[code & dataset](https://github.com/uzeful/Infrared-and-Visual-Image-Fusion-via-Infrared-Feature-Extraction-and-Visual-Information-Preservation)][[supplement](http://7xswyh.com1.z0.glb.clouddn.com/supplementary.pdf)]
+> 2. Y. Zhang, X. Bai and T. Wang, Multi-focus image fusion via boundary finding and multi-scale morphological focus-measure, Information Fusion, Volume 35, pp. 81-101, 2017. [[code & dataset](https://github.com/uzeful/Boundary-Finding-based-Multi-focus-Image-Fusion)]  
 > 3. L. Qiu, Y. Zhang, Q. Zhang, L. Xu, X. Niu and L. Zhang, Allograft selection for distal femur through cutting contour registration, Cell and Tissue Banking, pp. 1-13, 2016.  
-> 4. X. Bai, Y. Zhang, F. Zhou and B. Xue. Quadtree-based multi-focus image fusion using a weighted focus-measure. Information Fusion, Volume 22, pp. 105-118, 2015. [[code](http://7xkx4z.dl1.z0.glb.clouddn.com/Quadtree%20based%20Image%20Fusion.zip)][[dataset](http://7xsubt.com1.z0.glb.clouddn.com/dataset_if2014.zip)]  
+> 4. X. Bai, Y. Zhang, F. Zhou and B. Xue. Quadtree-based multi-focus image fusion using a weighted focus-measure. Information Fusion, Volume 22, pp. 105-118, 2015. [[code & dataset](https://github.com/uzeful/Quadtree-Based-Multi-focus-Image-Fusion)]
 > 5. Y. Zhang, X. Bai and T. Wang, Multi-focus image fusion via boundary finding and multi-scale morphological focus-measure, IEEE Conference on DICTA, 2014.  
 > 5. X. Bai, Z. Chen, Y. Zhang, Z. Liu, Y. Lu, Spatial information based FCM for infrared ship target segmentation, IEEE Conference on ICIP, 2014.
