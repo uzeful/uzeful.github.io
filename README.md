@@ -4,6 +4,7 @@
 > Department of Electronic Engineering  
 > Tsinghua University  
 > Email: uzeful[at]163[dot]com  
+> Google Scholar: https://scholar.google.com/citations?user=44nJbB0AAAAJ&hl=zh-CN 
 
 ## Educations
 > 1. 2015.08~Present: PhD candidate in Department of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang.  
@@ -16,7 +17,7 @@
 ## Review Experiences
 > Information Fusion, Applied Optics, Infrared Physics & Technology  
 
-## Publications
+## Selected Publications
 > 1. Y. Zhang, L. Zhang, X. Bai and L. Zhang. Infrared and Visual Image Fusion through Infrared Feature Extraction and Visual Information Preservation. Infrared Physics & Technology, 2017. [[code & dataset](https://github.com/uzeful/Infrared-and-Visual-Image-Fusion-via-Infrared-Feature-Extraction-and-Visual-Information-Preservation)][[supplement](https://uzeful.github.io/Papers/Supplementary_Materials_for_IPT2017.pdf)]
 > 2. Y. Zhang, X. Bai and T. Wang, Multi-focus image fusion via boundary finding and multi-scale morphological focus-measure, Information Fusion, Volume 35, pp. 81-101, 2017. [[code & dataset](https://github.com/uzeful/Boundary-Finding-based-Multi-focus-Image-Fusion)]  
 > 3. L. Qiu, Y. Zhang, Q. Zhang, L. Xu, X. Niu and L. Zhang, Allograft selection for distal femur through cutting contour registration, Cell and Tissue Banking, pp. 1-13, 2016.  
