@@ -4,7 +4,7 @@
 > Department of Electronic Engineering  
 > Tsinghua University  
 > Email: uzeful[at]163[dot]com  
-> Homepage: [[Github](https://github.com/uzeful)] [[Google Scholar](https://scholar.google.com/citations?user=44nJbB0AAAAJ&hl=zh-CN) ([Mirror](https://xues.glgoo.com/citations?user=44nJbB0AAAAJ&hl=zh-CN&oi=sra))]  
+> Homepage: [[Google Scholar](https://scholar.google.com/citations?user=44nJbB0AAAAJ&hl=zh-CN) ([Mirror](https://xues.glgoo.com/citations?user=44nJbB0AAAAJ&hl=zh-CN&oi=sra))] [[Github](https://github.com/uzeful)]  
 
 ## Educations
 > 1. 2015.08~Present: PhD candidate in Department of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang.  
