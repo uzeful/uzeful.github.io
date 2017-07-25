@@ -18,7 +18,7 @@
 > Information Fusion, Applied Optics, Infrared Physics & Technology  
 
 ## Selected Publications
-> 1. Yu Zhang, Lei Qiu, Fengzan Li, Qing Zhang, Li Zhang, Xiaohui Niu, Automatic allograft bone selection through band registration and its application to distal femur, Cell & Tissue Banking, 2017. [web[https://link.springer.com/article/10.1007/s10561-017-9643-4]]
+> 1. Yu Zhang, Lei Qiu, Fengzan Li, Qing Zhang, Li Zhang, Xiaohui Niu, Automatic allograft bone selection through band registration and its application to distal femur, Cell & Tissue Banking, 2017. [web(https://link.springer.com/article/10.1007/s10561-017-9643-4)]
 > 1. Y. Zhang, L. Zhang, X. Bai and L. Zhang. Infrared and Visual Image Fusion through Infrared Feature Extraction and Visual Information Preservation. Infrared Physics & Technology, 2017. [[code & dataset](https://github.com/uzeful/Infrared-and-Visual-Image-Fusion-via-Infrared-Feature-Extraction-and-Visual-Information-Preservation)][[supplement](https://uzeful.github.io/Papers/Supplementary_Materials_for_IPT2017.pdf)]
 > 2. Y. Zhang, X. Bai and T. Wang, Multi-focus image fusion via boundary finding and multi-scale morphological focus-measure, Information Fusion, Volume 35, pp. 81-101, 2017. [[code & dataset](https://github.com/uzeful/Boundary-Finding-based-Multi-focus-Image-Fusion)]  
 > 3. L. Qiu, Y. Zhang, Q. Zhang, L. Xu, X. Niu and L. Zhang, Allograft selection for distal femur through cutting contour registration, Cell & Tissue Banking, pp. 1-13, 2016.  
