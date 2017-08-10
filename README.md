@@ -7,9 +7,9 @@ Email: uzeful[at]163[dot]com
 Homepage: [[Google Scholar](https://scholar.google.com/citations?user=44nJbB0AAAAJ&hl=zh-CN) ([Mirror](https://xues.glgoo.com/citations?user=44nJbB0AAAAJ&hl=zh-CN&oi=sra))] [[Github](https://github.com/uzeful)]  
 
 ## Educations
-2015.08~Present: PhD candidate in Department of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang.  
-2012.09~2015.03: ME in school of Astronautics, Beihang University, supervised by Professor Xiangzhi Bai.  
-2008.09~2012.07: BE in Navigation College, Dalian Maritime University.  
++ 2015.08~Present: PhD candidate in Department of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang.  
++ 2012.09~2015.03: ME in school of Astronautics, Beihang University, supervised by Professor Xiangzhi Bai.  
++ 2008.09~2012.07: BE in Navigation College, Dalian Maritime University.  
 
 ## Research Interests
 Machine Learning, Image fusion, Medical imaging  
