@@ -1,21 +1,21 @@
 ## About Me
-&#8194; Yu Zhang  
-&#8194; Ph.D. Candidate   
-&#8194; Department of Electronic Engineering  
-&#8194; Tsinghua University  
-&#8194; Email: uzeful[at]163[dot]com  
-&#8194; Homepage: [[Google Scholar](https://scholar.google.com/citations?user=44nJbB0AAAAJ&hl=zh-CN) ([Mirror](https://xues.glgoo.com/citations?user=44nJbB0AAAAJ&hl=zh-CN&oi=sra))] [[Github](https://github.com/uzeful)]  
+Yu Zhang  
+Ph.D. Candidate  
+Department of Electronic Engineering  
+Tsinghua University  
+Email: uzeful[at]163[dot]com  
+Homepage: [[Google Scholar](https://scholar.google.com/citations?user=44nJbB0AAAAJ&hl=zh-CN) ([Mirror](https://xues.glgoo.com/citations?user=44nJbB0AAAAJ&hl=zh-CN&oi=sra))] [[Github](https://github.com/uzeful)]  
 
 ## Educations
-&#8194; 1. 2015.08~Present: PhD candidate in Department of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang.  
-&#8194; 2. 2012.09~2015.03: ME in school of Astronautics, Beihang University, supervised by Professor Xiangzhi Bai.  
-&#8194; 3. 2008.09~2012.07: BE in Navigation College, Dalian Maritime University.  
+1. 2015.08~Present: PhD candidate in Department of Electronic Engineering in Tsinghua University, supervised by Professor Li Zhang.  
+2. 2012.09~2015.03: ME in school of Astronautics, Beihang University, supervised by Professor Xiangzhi Bai.  
+3. 2008.09~2012.07: BE in Navigation College, Dalian Maritime University.  
 
 ## Research Interests
-&#8194; Machine Learning, Image fusion, Medical imaging  
+Machine Learning, Image fusion, Medical imaging  
 
 ## Review Experiences
-&#8194; Information Fusion, Applied Optics, Infrared Physics & Technology  
+Information Fusion, Applied Optics, Infrared Physics & Technology  
 
 ## Selected Publications
 * <b>Yu Zhang</b>, Lei Qiu, Fengzan Li, Qing Zhang, Li Zhang, Xiaohui Niu, [Automatic allograft bone selection through band registration and its application to distal femur](https://link.springer.com/article/10.1007/s10561-017-9643-4), Cell & Tissue Banking, 2017.  
