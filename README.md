@@ -15,7 +15,7 @@ Homepage: [[Google Scholar](https://scholar.google.com/citations?user=44nJbB0AAA
 Machine Learning, Image fusion, Medical imaging  
 
 ## Review Experiences
-Information Fusion, Applied Optics, Infrared Physics & Technology  
+Information Fusion, Applied Optics, Infrared Physics & Technology, Computers in Biology and Medicine
 
 ## Selected Publications
 * <b>Yu Zhang</b>, Lei Qiu, Fengzan Li, Qing Zhang, Li Zhang, Xiaohui Niu, [Automatic allograft bone selection through band registration and its application to distal femur](https://link.springer.com/article/10.1007/s10561-017-9643-4), Cell & Tissue Banking, 2017.  
