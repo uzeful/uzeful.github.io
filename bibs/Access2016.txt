@@ -1,0 +1,9 @@
+@article{bai2016multi,
+  title={Multi-focus image fusion through gradient-based decision map construction and mathematical morphology},
+  author={Bai, Xiangzhi and Liu, Miaoming and Chen, Zhiguo and Wang, Peng and Zhang, Yu},
+  journal={IEEE Access},
+  volume={4},
+  pages={4749--4760},
+  year={2016},
+  publisher={IEEE}
+}

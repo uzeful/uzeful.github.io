@@ -1,0 +1,8 @@
+@inproceedings{wang2014multiple,
+  title={Multiple features based low-contrast infrared ship image segmentation using fuzzy inference system},
+  author={Wang, Tao and Bai, Xiangzhi and Zhang, Yu},
+  booktitle={2014 International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
+  pages={1--6},
+  year={2014},
+  organization={IEEE}
+}

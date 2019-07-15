@@ -1,0 +1,10 @@
+@article{bai2016infrared,
+  title={Infrared ship target segmentation based on spatial information improved FCM},
+  author={Bai, Xiangzhi and Chen, Zhiguo and Zhang, Yu and Liu, Zhaoying and Lu, Yi},
+  journal={IEEE transactions on cybernetics},
+  volume={46},
+  number={12},
+  pages={3259--3271},
+  year={2016},
+  publisher={IEEE}
+}

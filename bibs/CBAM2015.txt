@@ -1,0 +1,9 @@
+@article{bai2015finding,
+  title={Finding splitting lines for touching cell nuclei with a shortest path algorithm},
+  author={Bai, Xiangzhi and Wang, Peng and Sun, Changming and Zhang, Yu and Zhou, Fugen and Meng, Cai},
+  journal={Computers in biology and medicine},
+  volume={63},
+  pages={277--286},
+  year={2015},
+  publisher={Elsevier}
+}

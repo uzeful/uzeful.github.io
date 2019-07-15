@@ -1,0 +1,10 @@
+@article{bai2014enhancement,
+  title={Enhancement of microscopy mineral images through constructing alternating operators using opening and closing based toggle operator},
+  author={Bai, Xiangzhi and Zhang, Yu},
+  journal={Journal of Optics},
+  volume={16},
+  number={12},
+  pages={125407},
+  year={2014},
+  publisher={IOP Publishing}
+}

@@ -1,0 +1,9 @@
+@article{bai2016feature,
+  title={Feature based fuzzy inference system for segmentation of low-contrast infrared ship images},
+  author={Bai, Xiangzhi and Liu, Miaoming and Wang, Tao and Chen, Zhiguo and Wang, Peng and Zhang, Yu},
+  journal={Applied Soft Computing},
+  volume={46},
+  pages={128--142},
+  year={2016},
+  publisher={Elsevier}
+}

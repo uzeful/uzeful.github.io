@@ -1,0 +1,9 @@
+@article{bai2014detail,
+  title={Detail preserved fusion of infrared and visual images by using opening and closing based toggle operator},
+  author={Bai, Xiangzhi and Zhang, Yu},
+  journal={Optics \& Laser Technology},
+  volume={63},
+  pages={105--113},
+  year={2014},
+  publisher={Elsevier}
+}

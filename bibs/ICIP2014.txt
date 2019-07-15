@@ -1,0 +1,8 @@
+@inproceedings{bai2014spatial,
+  title={Spatial information based FCM for infrared ship target segmentation},
+  author={Bai, Xiangzhi and Chen, Zhiguo and Zhang, Yu and Liu, Zhaoying and Lu, Yi},
+  booktitle={2014 IEEE International Conference on Image Processing (ICIP)},
+  pages={5127--5131},
+  year={2014},
+  organization={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{bai2015center,
+  title={Center-free PFCM for MRI brain image segmentation},
+  author={Bai, Xiangzhi and Chen, Zhiguo and Liu, Miaoming and Zhang, Yu},
+  booktitle={2015 IEEE International Conference on Image Processing (ICIP)},
+  pages={656--660},
+  year={2015},
+  organization={IEEE}
+}
