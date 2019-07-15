@@ -1,0 +1,9 @@
+@article{zhang2017infrared,
+  title={Infrared and visual image fusion through infrared feature extraction and visual information preservation},
+  author={Zhang, Yu and Zhang, Lijia and Bai, Xiangzhi and Zhang, Li},
+  journal={Infrared Physics \& Technology},
+  volume={83},
+  pages={227--237},
+  year={2017},
+  publisher={Elsevier}
+}

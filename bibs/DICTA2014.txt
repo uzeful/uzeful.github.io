@@ -1,0 +1,8 @@
+@inproceedings{zhang2014multi,
+  title={Multi-Focus Image Fusion via Boundary Finding and Multi-Scale Morphological Focus-Measure},
+  author={Zhang, Yu and Bai, Xiangzhi and Wang, Tao},
+  booktitle={2014 International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
+  pages={1--7},
+  year={2014},
+  organization={IEEE}
+}
