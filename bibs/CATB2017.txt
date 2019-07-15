@@ -1,7 +1,7 @@
 @article{zhang2017automatic,
   title={Automatic allograft bone selection through band registration and its application to distal femur},
   author={Zhang, Yu and Qiu, Lei and Li, Fengzan and Zhang, Qing and Zhang, Li and Niu, Xiaohui},
-  journal={Cell and tissue banking},
+  journal={Cell \& Tissue Banking},
   volume={18},
   number={3},
   pages={297--305},

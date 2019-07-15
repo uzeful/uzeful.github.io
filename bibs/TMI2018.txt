@@ -1,7 +1,7 @@
 @article{qiu2018estimating,
   title={Estimating maximum target registration error under uniform restriction of fiducial localization error in image guided system},
   author={Qiu, Lei and Zhang, Yu and Xu, Lihui and Niu, Xiaohui and Zhang, Qing and Zhang, Li},
-  journal={IEEE transactions on medical imaging},
+  journal={IEEE Transactions on Medical Imaging},
   volume={37},
   number={4},
   pages={881--892},
