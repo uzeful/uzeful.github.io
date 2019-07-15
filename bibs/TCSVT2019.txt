@@ -1,0 +1,10 @@
+@article{yan2019single,
+  title={Single Image Depth Estimation With Normal Guided Scale Invariant Deep Convolutional Fields},
+  author={Yan, Han and Yu, Xin and Zhang, Yu and Zhang, Shunli and Zhao, Xiaolin and Zhang, Li},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={29},
+  number={1},
+  pages={80--92},
+  year={2019},
+  publisher={IEEE}
+}

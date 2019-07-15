@@ -1,0 +1,9 @@
+@article{yan2018monocular,
+  title={Monocular depth estimation with guidance of surface normal map},
+  author={Yan, Han and Zhang, Shunli and Zhang, Yu and Zhang, Li},
+  journal={Neurocomputing},
+  volume={280},
+  pages={86--100},
+  year={2018},
+  publisher={Elsevier}
+}

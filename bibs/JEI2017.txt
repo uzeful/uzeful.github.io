@@ -1,0 +1,10 @@
+@article{yan2017focal,
+  title={Focal length estimation guided with object distribution on FocaLens dataset},
+  author={Yan, Han and Zhang, Yu and Zhang, Shunli and Zhao, Sicong and Zhang, Li},
+  journal={Journal of Electronic Imaging},
+  volume={26},
+  number={3},
+  pages={033018},
+  year={2017},
+  publisher={International Society for Optics and Photonics}
+}

@@ -1,0 +1,10 @@
+@article{qiu2016allograft,
+  title={Allograft selection for distal femur through cutting contour registration},
+  author={Qiu, Lei and Zhang, Yu and Zhang, Qing and Xu, Lihui and Niu, Xiaohui and Zhang, Li},
+  journal={Cell and tissue banking},
+  volume={17},
+  number={4},
+  pages={699--711},
+  year={2016},
+  publisher={Springer}
+}
