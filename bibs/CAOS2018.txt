@@ -1,0 +1,9 @@
+@article{zhang2018equivalence,
+  title={Equivalence Evaluation of Point Registration and Intraoperative CT Registration While Using Navigation System},
+  author={Zhang, Yu and Qiu, Lei and Zhang, Qing and Xu, Lihui and Yao, Yujin and Niu, Xiaohui and Zhang, Li},
+  journal={EPiC Series in Health Sciences},
+  volume={2},
+  pages={248--251},
+  year={2018},
+  publisher={EasyChair}
+}
