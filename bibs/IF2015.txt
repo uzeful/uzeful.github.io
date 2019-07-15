@@ -1,0 +1,9 @@
+@article{bai2015quadtree,
+  title={Quadtree-based multi-focus image fusion using a weighted focus-measure},
+  author={Bai, Xiangzhi and Zhang, Yu and Zhou, Fugen and Xue, Bindang},
+  journal={Information Fusion},
+  volume={22},
+  pages={105--118},
+  year={2015},
+  publisher={Elsevier}
+}
