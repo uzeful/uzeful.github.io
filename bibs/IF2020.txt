@@ -1,7 +1,9 @@
-@article{zhang2019IFCNN,
+@article{zhang2020IFCNN,
   title={IFCNN: A General Image Fusion Framework Based on Convolutional Neural Network},
   author={Zhang, Yu and Liu, Yu and Sun, Peng and Yan, Han and Zhao, Xiaolin and Zhang, Li},
   journal={Information Fusion},
-  year={2019},
+  volume={54},
+  pages={99--118}
+  year={2020},
   publisher={Elsevier}
 }
