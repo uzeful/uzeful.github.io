@@ -1,5 +1,5 @@
 @article{zhang2019towards,
-  title={Towards Precise Osteotomies: A Coarse-to-fine 3D Cut Plane Planning Method for Image-Guided Pelvis Tumor Resection Surgery},
+  title={Toward Precise Osteotomies: A Coarse-to-fine 3D Cut Plane Planning Method for Image-Guided Pelvis Tumor Resection Surgery},
   author={Zhang, Yu and Li, Fengzan and Qiu, Lei and Xu, Lihui and Niu, Xiaohui and Sui, Yao and Zhang, Shunli and Zhang, Qing and Zhang, Li},
   journal={IEEE Transactions on Medical Imaging},
   volume={},
