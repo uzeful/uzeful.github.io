@@ -1,0 +1,11 @@
+@article{zhong2020occlusion,
+  title={Occlusion-aware Region-based 3D Pose Tracking of Objects with Temporally Consistent Polar-based Local Partitioning},
+  author={Leisheng, Zhong and Xiaolin, Zhao and Zhang, Yu and Zhang, Shunli and Zhang, Li},
+  journal={IEEE Transactions on Image Processing},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2020.2973512},
+  year={2020},
+  publisher={IEEE}
+}
