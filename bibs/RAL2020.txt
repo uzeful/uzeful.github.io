@@ -1,0 +1,10 @@
+@article{zhong2020seeing,
+  title={Seeing Through the Occluders: Robust Monocular 6-DOF Object Pose Tracking via Model-Guided Video Object Segmentation},
+  author={Zhong, Leisheng and Zhang, Yu and Zhao, Hao and Chang, An and Xiang, Wenhao and Zhang, Shunli and Zhang, Li},
+  journal={IEEE Robotics and Automation Letters},
+  volume={5},
+  number={4},
+  pages={5159--5166},
+  year={2020},
+  publisher={IEEE}
+}
