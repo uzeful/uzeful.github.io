@@ -1,0 +1,9 @@
+@article{chang2022detecting,
+  title={Detecting prohibited objects with physical size constraint from cluttered X-ray baggage images},
+  author={Chang, An and Zhang, Yu and Zhang, Shunli and Zhong, Leisheng and Zhang, Li},
+  journal={Knowledge-Based Systems},
+  volume={237},
+  pages={107916},
+  year={2022},
+  publisher={Elsevier}
+}

@@ -1,0 +1,10 @@
+@article{yin2025attribute,
+  title={Attribute-weighted Time Surface Based Denoising Method for Space Object Event Streams},
+  author={Yin, Xiaofei and Zhang, Yu and Chen, Guo and Zhang, Dawei and Yin, Jihao},
+  journal={IEEE Sensors Journal},
+  volume={25},
+  number={10},
+  pages={17823 -- 17834},
+  year={2025},
+  publisher={IEEE}
+}

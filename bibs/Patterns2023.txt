@@ -1,0 +1,10 @@
+@article{shen2023boundary,
+  title={A boundary-guided transformer for measuring distance from rectal tumor to anal verge on magnetic resonance images},
+  author={Shen, Jianjun and Lu, Siyi and Qu, Ruize and Zhao, Hao and Zhang, Li and Chang, An and Zhang, Yu and Fu, Wei and Zhang, Zhipeng},
+  journal={Patterns},
+  volume={4},
+  number={4},
+  pages={100711},
+  year={2023},
+  publisher={Elsevier}
+}
