@@ -1,0 +1,8 @@
+@article{yin2026stf,
+  title={STF-Net: A unified spatio-temporal-frequency learning framework for robust small-target detection from event streams},
+  author={Yin, Xiaofei and Zhang, Yu and Chen, Guo and Guo, Yuxi and Yin, Jihao},
+  journal={Neurocomputing},
+  pages={133511},
+  year={2026},
+  publisher={Elsevier}
+}

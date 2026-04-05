@@ -1,0 +1,7 @@
+@article{li2025fine,
+  title={Fine-grained space object classification with Convolution-Boosted LSTM using light curves: A new method and a large scale dataset},
+  author={Li, Weixiao and Zhang, Yu and Chen, Guo and Yin, Jihao},
+  journal={Acta Astronautica},
+  year={2026},
+  publisher={Elsevier}
+}

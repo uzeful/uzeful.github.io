@@ -1,0 +1,8 @@
+@article{yang2026mtfusion,
+  title={MTFusion: A Dual-task-driven Mean Teacher Framework for Infrared and Visible Image Fusion},
+  author={Yang, Qiao and Zhang, Yu and Chen, Junfu and Zhang, Jian and Zhang, Qi and Zhang, Shunli},
+  journal={Knowledge-Based Systems},
+  pages={115584},
+  year={2026},
+  publisher={Elsevier}
+}

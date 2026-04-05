@@ -1,0 +1,10 @@
+@article{zhang2025application,
+  title={Application of a rapid and accurate safe-margin volume generation method in computer-assisted bone tumor resection surgery},
+  author={Zhang, Yu and Pang, Daming and Li, Zhuoyu and Sun, Yang and Liu, Weifeng and others},
+  journal={Journal of Orthopaedic Surgery and Research},
+  volume={20},
+  number={1},
+  pages={1009},
+  year={2025},
+  publisher={Springer}
+}
